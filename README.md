@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://sidneyteodorojr.github.io/Live_Code_Editor/" target="_blank">
-<img src="https://github.com/SidneyTeodoroJr/Live_Code_Editor/blob/main/live_code_editor.png" alt="gradient">
+<img src="https://github.com/SidneyTeodoroJr/Live_Code_Editor/blob/main/live_code_editor.png" alt="Live Code">
 </a>
 </div>
 </br>
